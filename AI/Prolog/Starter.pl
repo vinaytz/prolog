@@ -1,0 +1,1 @@
+?- consult('C:/Users/xvina/OneDrive/Desktop/Dtop/LPU/Sec yr/AI/Prolog/Medical.pl').
